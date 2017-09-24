@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 Top header :
 About Us  Contact Us  Phone : (+91) - 804004533  Phone: (+91) – 9743056173
 
@@ -15,21 +14,3 @@ Menus:
             BLINDS
             ACCESSORIES
 
-=======
-Top header :
-About Us  Contact Us  Phone : (+91) - 804004533  Phone: (+91) – 9743056173
-
-Menus:
-
-            CURTAINS
-            UPHOLSTERY
-            WALLPAPERS
-            CARPETS
-            FLOORINGS
-            MATTRESSES
-            HARDWARE
-            BED & BATH
-            BLINDS
-            ACCESSORIES
-
->>>>>>> 882384c417e804bff1494e8c959e67d9cdbb2ea2
